@@ -1,2 +1,5 @@
-# GeekTimeHomework
-初级Go训练营作业
+# 初级Go训练营作业
+
+## week1
+
+已完成
